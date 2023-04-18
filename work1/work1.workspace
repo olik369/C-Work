@@ -1,2 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<CodeLite_Workspace Name="work1" Database="" Version="10000"/>
+<CodeLite_Workspace Name="work1" Database="" Version="10000">
+  <Project Name="Project2-9_Installation_and_Setup" Path="Project2-9_Installation_and_Setup/Project2-9_Installation_and_Setup.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="Project2-9_Installation_and_Setup" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="Project2-9_Installation_and_Setup" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
