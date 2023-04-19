@@ -1,0 +1,4 @@
+C:\Users\olik3\OneDrive\Desktop\works\Section4\CompileErrors\main.cpp
+C:\Users\olik3\OneDrive\Desktop\works\Section4\Project2\main.cpp
+C:\Users\olik3\OneDrive\Desktop\works\Section4\FirstProgram\main.cpp
+C:\Users\olik3\OneDrive\Desktop\works\Section4\Project1\main.cpp
